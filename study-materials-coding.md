@@ -5,3 +5,4 @@
 2. 100 Days Of More Or Less Modern CSS: https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/
 3. Create a UML diagram from the project: https://www.bhavaniravi.com/python/generate-uml-diagrams-from-python-code
 4. https://www.programiz.com/python-programming/matrix
+5. FREE for dev: https://free-for.dev/#/?id=design-and-ui
