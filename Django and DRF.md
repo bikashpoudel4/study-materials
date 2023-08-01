@@ -22,3 +22,5 @@ Implementing Multiple File Uploads in Django
 Django Best Practices
   https://medium.com/@schopade333/django-best-practices-a95f9b2b11e8
 
+Django logger
+https://pypi.org/project/drf-api-logger/
