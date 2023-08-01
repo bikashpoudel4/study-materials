@@ -7,3 +7,4 @@
 4. https://www.programiz.com/python-programming/matrix
 5. FREE for dev: https://free-for.dev/#/?id=design-and-ui
 6. https://codingbat.com/java
+https://www.kaggle.com/learn/python
