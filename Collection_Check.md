@@ -150,3 +150,42 @@ https://templatemo.com/
 50. Tooplate -
 https://www.tooplate.com/
 -----------------------------1---------------------------------------
+
+-------------------------------------2-------------------------------
+Some Helpful GitHub Repositories for Coders
+
+1. The Algorithms
+ https://github.com/TheAlgorithms/Python
+
+2. Awesome Python
+ https://github.com/vinta/awesome-python
+
+3. Tensorflow
+
+https://github.com/tensorflow/tensorflow
+
+
+4. Project Based Learning
+
+https://github.com/tuvtran/project-based-learning#python
+
+5. Python-Programming-Exercises
+
+https://github.com/zhiwehu/Python-programming-exercises
+
+6. Learn-Python
+
+https://github.com/trekhleb/learn-python
+
+
+7. Learn Python 3 
+
+https://github.com/jerry-git/learn-python3
+
+8. Full Speed Python
+
+https://github.com/joaoventura/full-speed-python
+
+9. Coding Problems
+ https://github.com/MTrajK/coding-problems
+--------------------------------2-----------------------------------------------------
