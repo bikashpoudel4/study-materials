@@ -189,3 +189,193 @@ https://github.com/joaoventura/full-speed-python
 9. Coding Problems
  https://github.com/MTrajK/coding-problems
 --------------------------------2-----------------------------------------------------
+
+💎- .NET FRAMEWORK-
+
+https://books.goalkicker.com/DotNETFrameworkBook/
+
+💎- Algorithms-
+
+https://books.goalkicker.com/AlgorithmsBook/
+
+💎- Android-
+
+https://books.goalkicker.com/AndroidBook/
+
+💎- Angular 2
+
+https://books.goalkicker.com/Angular2Book/
+
+💎- Angular JS 
+
+https://books.goalkicker.com/AngularJSBook/
+
+💎- BASH 
+
+https://books.goalkicker.com/BashBook/
+
+💎- C 
+
+https://books.goalkicker.com/CBook/
+
+💎- C++
+
+https://t.me/programming_guide/80
+
+💎- C#
+
+https://books.goalkicker.com/CSharpBook/
+
+💎- CSS
+
+https://books.goalkicker.com/CSSBook/
+
+💎- Entity Framework-
+
+https://books.goalkicker.com/EntityFrameworkBook/
+
+💎- Excel VBA
+
+https://books.goalkicker.com/ExcelVBABook/
+
+💎- GIT 
+
+https://books.goalkicker.com/GitBook/
+
+💎- Haskell
+
+https://books.goalkicker.com/HaskellBook/
+
+💎- Hibernate
+
+https://books.goalkicker.com/HibernateBook/
+
+💎- HTML 5
+
+https://books.goalkicker.com/HTML5Book/
+
+💎- HTML5 CANVAS
+
+https://books.goalkicker.com/HTML5CanvasBook/
+
+💎- iOS
+
+https://books.goalkicker.com/iOSBook/
+
+💎- JAVA 
+
+https://books.goalkicker.com/JavaBook/
+
+💎- JAVA SCRIPT
+
+https://books.goalkicker.com/JavaScriptBook/
+
+💎- jQuery
+
+https://books.goalkicker.com/jQueryBook/
+
+💎- KOTLIN
+
+https://books.goalkicker.com/KotlinBook/
+
+💎- LaTex
+
+https://books.goalkicker.com/LaTeXBook/
+
+💎- Linux
+
+https://books.goalkicker.com/LinuxBook/
+
+💎 MATLAB
+
+https://books.goalkicker.com/MATLABBook/
+
+💎- Microsoft SQL Server
+
+https://books.goalkicker.com/MicrosoftSQLServerBook/
+
+💎- MongoDB
+
+https://books.goalkicker.com/MongoDBBook/
+
+💎 MySQL
+
+https://books.goalkicker.com/MySQLBook/
+
+💎- NodeJS
+
+https://books.goalkicker.com/NodeJSBook/
+
+💎- Objective-C.   
+
+https://books.goalkicker.com/ObjectiveCBook/
+
+💎- Oracle DB 
+
+https://books.goalkicker.com/OracleDatabaseBook/
+
+💎- Perl  
+https://books.goalkicker.com/PerlBook/
+
+💎 PHP
+
+https://books.goalkicker.com/PHPBook/
+
+💎 PostgreSQL
+
+https://books.goalkicker.com/PostgreSQLBook/
+
+💎- PowerShell
+
+https://books.goalkicker.com/PowerShellBook/
+
+💎- Python
+
+https://t.me/programming_guide/76
+
+💎 R  
+
+https://books.goalkicker.com/RBook/
+
+💎 React JS   
+
+https://books.goalkicker.com/ReactJSBook/
+
+💎- React Native.  
+
+https://books.goalkicker.com/ReactNativeBook/
+
+💎- Ruby   
+
+https://books.goalkicker.com/RubyBook/
+
+💎- Ruby on Rails
+
+https://books.goalkicker.com/RubyOnRailsBook/
+
+💎- Spring Framework
+
+https://books.goalkicker.com/SpringFrameworkBook/
+
+💎 SQL    
+
+https://books.goalkicker.com/SQLBook/
+
+💎- Swift   
+
+https://books.goalkicker.com/SwiftBook/
+
+💎 Type Script
+
+https://books.goalkicker.com/TypeScriptBook2/
+
+💎 VBA    
+
+https://books.goalkicker.com/VBABook/
+
+💎Visual Basic .Net   
+
+https://books.goalkicker.com/VisualBasic_NETBook/
+
+💎 Xamarin.Forms   
+https://books.goalkicker.com/XamarinFormsBook/
