@@ -5,3 +5,4 @@
 
 ## Python Exercise 
   - https://pynative.com/python-exercises-with-solutions/
+  - https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
