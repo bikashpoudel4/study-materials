@@ -16,3 +16,8 @@
         git push -u origin main
 
 ## Pull request
+
+        git pull --all
+
+## Branch Status
+        git status
