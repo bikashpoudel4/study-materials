@@ -24,3 +24,6 @@
 
 ## Create a new Branch
         git branch new_branch
+
+## Switch branch
+        git switch branch_name
