@@ -21,3 +21,6 @@
 
 ## Branch Status
         git status
+
+## Create a new Branch
+        git branch new_branch
