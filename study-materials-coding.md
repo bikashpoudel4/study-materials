@@ -13,3 +13,4 @@ https://www.kaggle.com/learn/python
 ## Checking what is allowed to scrape legally
   put /robots.txt at the end of url  eg- https://www.udemy.com/robots.txt
       many websites provide robots.txt
+      https://www.linkedin.com/robots.txt
