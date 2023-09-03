@@ -51,3 +51,21 @@ https://pypi.org/project/drf-api-logger/
 
 ## Supercharging Your Django App with Celery Asynchronous Tasks
   https://tanverharun.medium.com/supercharging-your-django-app-with-celery-asynchronous-tasks-d090de58307f
+
+## Django Channels is All You Need
+  https://medium.com/atomic-loops/django-channels-is-all-you-need-94628dd6815c
+
+## Implementing Mobile Number Verification and OTP-based Authentication in Django (Django Rest Framework)
+  https://awstip.com/implementing-mobile-number-verification-and-otp-based-authentication-in-django-django-rest-48c54382e989
+
+## How to make an AI recommendation system with Django and Prophet
+  https://medium.com/@Evenword/how-to-make-an-ai-recommendation-system-with-django-and-prophet-c8fecbfdba06
+
+## Everything You Need to Know About Django Models in Python
+  https://betterprogramming.pub/everything-you-need-to-know-about-django-models-in-python-2a44ed4293dd
+
+## Ship your Django app on Digitalocean — Superfast and Without any Error
+  https://blog.devgenius.io/ship-your-django-app-on-digitalocean-superfast-and-without-any-error-35f3ac53daa7
+
+## Scaling Django for High Traffic
+  https://medium.com/django-unleashed/scaling-django-for-high-traffic-d4c840e7f27
