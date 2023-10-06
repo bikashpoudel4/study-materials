@@ -69,3 +69,13 @@ https://pypi.org/project/drf-api-logger/
 
 ## Scaling Django for High Traffic
   https://medium.com/django-unleashed/scaling-django-for-high-traffic-d4c840e7f27
+
+## 10 Principles of Django 
+  https://medium.com/django-unleashed/10-principles-of-django-d3369fc75274
+
+## Building A Rest API Endpoint for Ticket App With Django
+  https://medium.com/@oyetoketoby80/building-a-rest-api-endpoint-for-ticket-app-with-django-part2-f60163545995
+
+## Flash Messages in Django
+  https://betterprogramming.pub/django-flash-messages-6afbccd1b457
+
