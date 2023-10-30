@@ -4,3 +4,5 @@
   3. https://www.udemy.com/course/fullstack-youtube-clone-using-django/
   4. https://www.udemy.com/course/build-facebook-messenger-clone-with-django/
   5. https://www.udemy.com/course/full-stack-react-django-drf-channels-project-djchat/
+  6. https://www.udemy.com/course/python-programming-build-a-recommendation-engine-in-django/
+  7. https://www.udemy.com/course/serverless-python-applications-on-google-cloud/
