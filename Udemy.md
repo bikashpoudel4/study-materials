@@ -3,3 +3,4 @@
   2. https://www.udemy.com/course/python-django-for-beginners-build-3-practical-projects/
   3. https://www.udemy.com/course/fullstack-youtube-clone-using-django/
   4. https://www.udemy.com/course/build-facebook-messenger-clone-with-django/
+  5. https://www.udemy.com/course/full-stack-react-django-drf-channels-project-djchat/
