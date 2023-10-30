@@ -1,3 +1,5 @@
 ## DJANGO: 
-  https://www.udemy.com/course/django-2-made-easy-2019-build-an-application-for-companies/
-  https://www.udemy.com/course/python-django-for-beginners-build-3-practical-projects/
+  1. https://www.udemy.com/course/django-2-made-easy-2019-build-an-application-for-companies/
+  2. https://www.udemy.com/course/python-django-for-beginners-build-3-practical-projects/
+  3. https://www.udemy.com/course/fullstack-youtube-clone-using-django/
+  4. https://www.udemy.com/course/build-facebook-messenger-clone-with-django/
