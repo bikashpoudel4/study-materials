@@ -1,0 +1,4 @@
+https://clipdrop.co/stable-diffusion
+https://elevenlabs.io/speech-synthesis
+https://app.leonardo.ai/
+https://colab.research.google.com/drive/1wgM83pDNWbYrG40D_lqVfMovWikVTwAj
