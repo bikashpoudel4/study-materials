@@ -1,2 +1,2 @@
 
-#Content Creator Tool:# https://cctk.es/
+Content Creator Tool:  https://cctk.es/
