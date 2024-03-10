@@ -6,3 +6,4 @@
 - Shadcn:  https://ui.shadcn.com/docs
 - UniverseIO:  https://universe.io/
 - Aceternity:  https://ui.aceternity.com/
+- GSAP:  https://gsap.com/
