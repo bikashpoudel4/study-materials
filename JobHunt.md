@@ -7,3 +7,4 @@
   - StepStone: https://www.stepstone.de/
   - Hays:https://www.hays.de/
   - Horizent Personal: https://www.horizont-personal.de/
+  - Job Blitz:https://www.jobblitz.de/
