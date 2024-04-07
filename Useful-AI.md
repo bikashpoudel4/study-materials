@@ -1,5 +1,8 @@
 # USE FUL AI 
 
+## List of AI tools
+  - aixploria: www.aixploria.com
+
 ## Some of the useful AI tools
   - https://tensor.art/
   - https://clipdrop.co/stable-diffusion
